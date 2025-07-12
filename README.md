@@ -1,8 +1,8 @@
-Hi there, it's JSarthurliao here!
+Hi there, it's JSarthurliao here!  
 ### Brief Personal Inflrmation
-**Born:** Taiwan/Taipei
-**Job:** Still a student
-**Age:** 16
+**Born:** Taiwan/Taipei  
+**Job:** Still a student  
+**Age:** 16  
 <!--
 **JSarthurliao/JSarthurliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
